@@ -98,8 +98,17 @@ Run the application:
 ```bash
 python main.py
 ```
+ 
 
----
+💾 Windows Executable
+
+A ready-to-use Windows executable version is included:
+
+Auto Tasks Logger.exe
+
+You can run the application directly without installing Python.
+
+```
 
 # 📊 Reports
 
