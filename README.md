@@ -106,8 +106,6 @@ A ready-to-use Windows executable version is included:
 
 ```text
 Auto Tasks Logger.exe
-
-
 ```
 
 
