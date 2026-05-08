@@ -98,17 +98,18 @@ Run the application:
 ```bash
 python main.py
 ```
- 
 
-#💾 Windows Executable
+
+ # 💾 Windows Executable
 
 A ready-to-use Windows executable version is included:
 
+```text
 Auto Tasks Logger.exe
 
-You can run the application directly without installing Python.
 
- 
+```
+
 
 # 📊 Reports
 
@@ -126,8 +127,7 @@ Reports are saved locally inside:
 /reports
 ```
 
----
-
+ 
 # ⚡ Floating Widget
 
 The app includes a smart floating widget that allows:
